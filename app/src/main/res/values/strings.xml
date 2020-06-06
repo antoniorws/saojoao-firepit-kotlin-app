@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Fogueira</string>
+    <string name="admob_appid">ca-app-pub-4420839482116106~2606215644</string>
+    <string name="admob_banner">ca-app-pub-4420839482116106/4368769741</string>
 </resources>
