@@ -9,16 +9,16 @@ import com.google.android.gms.ads.MobileAds
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
-    lateinit var adView: AdView
+    lateinit var madView: AdView
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        adView = findViewById(R.id.adView)
-        MobileAds.initialize(this, getString(R.string.admob_appid))
+        MobileAds.initialize(this)
+        madView = findViewById(R.id.adView)
         val adRequest = AdRequest.Builder().build()
-        adView.loadAd(adRequest)
+        madView.loadAd(adRequest)
     }
 
     override fun onWindowFocusChanged(hasFocus: Boolean) {
