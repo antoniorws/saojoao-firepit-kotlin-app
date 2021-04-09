@@ -6,7 +6,9 @@ At São João last year (2020) I thought: People can't leave home to enjoy São 
 Then...
 <br/>
 <br/>
-I created this simple app in kotlin to see a fire pit and enjoy São João at home. :D
+I created this simple app in kotlin to see a fire pit and enjoy São João at home.
+<br/>
+Today this simple app has more than 1k downloads.
 <br/>
 <br/>
 This app is available only Play Store: 
