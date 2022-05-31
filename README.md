@@ -16,7 +16,7 @@ I created this simple app to see a fire pit and enjoy São João at home.
 <br/>
 
 ## Installers
-Today this simple app has more than 1k downloads.
+Today this simple app has more than 5K downloads.
 <br/>
 <br/>
 This app is available only Play Store: 
