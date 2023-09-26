@@ -6,7 +6,7 @@
 <br/>
 
 ## How it was born
-At São João last year (2020) I thought: People can't leave home to enjoy São João ...
+At São João (2020) I thought: People can't leave home to enjoy São João ...
 <br/>
 <br/>
 Then...
@@ -14,11 +14,13 @@ Then...
 <br/>
 I created this simple app to see a fire pit and enjoy São João at home.
 <br/>
+Today this simple app has more than 5K downloads and funny comments :D.
+<br/>
+I won't update this app anymore but I will leave it on the Play Store.
+<br/>
+<br/>
 
 ## Installers
-Today this simple app has more than 5K downloads.
-<br/>
-<br/>
 This app is available only Play Store: 
 <br/>
 <br/>
